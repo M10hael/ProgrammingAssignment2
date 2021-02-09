@@ -1,5 +1,5 @@
-#Esta tarea trato sobre la resolución de una matriz inversa 
-#alamcenando en el caché el resultado dentro de una función 
+#Esta tarea trata sobre la resolución de una matriz inversa 
+#almacenando en el caché el resultado dentro de una función 
 #"makeCacheMatrix" y también "Cache Solve", esto para evitar 
 #realizar demasidos cálculos 
 
